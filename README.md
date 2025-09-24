@@ -271,4 +271,8 @@ graph TD;
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Monu123a/leetcode/tree/master/0206-reverse-linked-list) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Monu123a/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
